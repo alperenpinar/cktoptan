@@ -144,7 +144,7 @@ Uygun fiyatlı ve sürekli stoklu çakmak ile bebek oyuncakları toptan satış�
 </div>
 
 <a class="whatsapp-btn"
-href="https://wa.me/905551112233?text=Merhaba%20ürünler%20hakkında%20bilgi%20almak%20istiyorum"
+href="https://wa.me/905305869097?text=Merhaba%20ürünler%20hakkında%20bilgi%20almak%20istiyorum"
 target="_blank">
 <i class="fa-brands fa-whatsapp"></i>
 WhatsApp
