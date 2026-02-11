@@ -125,9 +125,19 @@ body {
 <div class="section">
 
 <div class="card">
-<h2>Hakkımızda</h2>
-Uygun fiyatlı ve sürekli stoklu çakmak ile bebek oyuncakları toptan satışı yapılır.
+  <h2>Hakkımızda</h2>
+
+  <p>2024 yılında kurulan CK TOPTAN, çakmak ve aksesuar sektöründe kaliteli ürünleri uygun fiyat ve güvenilir hizmet anlayışıyla müşterileriyle buluşturmak amacıyla yola çıkmıştır. Kurulduğumuz ilk günden itibaren önceliğimiz; müşterilerimizin ihtiyaçlarını doğru analiz ederek, beklentilerin ötesinde bir tedarik deneyimi sunmaktır.</p>
+
+  <p>CK TOPTAN olarak geniş ürün yelpazemiz, güncel stok gücümüz ve hızlı tedarik yapımız sayesinde perakendeciler, işletmeler ve toptan alım yapan müşterilerimiz için güvenilir bir çözüm ortağı olmayı hedefliyoruz. Kalite, süreklilik ve müşteri memnuniyeti işimizin temel taşlarını oluşturur.</p>
+
+  <p>Tedarik süreçlerimizde güvenilirliği ve sürdürülebilir iş ilişkilerini esas alıyor, müşterilerimize rekabetçi fiyat avantajı ile birlikte hızlı, sorunsuz ve profesyonel hizmet sunuyoruz.</p>
+
+  <p>CK TOPTAN olarak vizyonumuz; sektörde güvenilirliği, hizmet kalitesi ve müşteri memnuniyeti ile öne çıkan bir marka olmaktır.</p>
+
+  <p><strong>Kaliteli ürün, güvenilir hizmet ve güçlü iş ortaklığı için CK TOPTAN her zaman yanınızda.</strong></p>
 </div>
+
 
 <div class="card">
 <h2>Ürün Grupları</h2>
